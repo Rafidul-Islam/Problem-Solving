@@ -1,0 +1,1 @@
+// C program to count frequency of each element in an array
