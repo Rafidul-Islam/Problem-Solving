@@ -14,3 +14,5 @@ var removeDuplicates = function (nums) {
 
 let nums = [0, 0, 1, 1, 1, 2, 2, 3, 3, 4, 4, 4, 4, 4, 4, 8];
 console.log(removeDuplicates(nums));
+
+// This comment is just for the skae of green graph
